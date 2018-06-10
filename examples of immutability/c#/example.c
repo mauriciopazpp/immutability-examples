@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-class immutable
+class AnImmutableType
 {
     public readonly double _value;
 
