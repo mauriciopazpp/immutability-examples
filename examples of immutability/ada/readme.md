@@ -1,5 +1,7 @@
 ## Preparação do ambiente
+`````
 sudo apt-get install gnat
+`````
 
 ## compilação e execução
 
