@@ -2,11 +2,11 @@ Para executar, digite:
 
 Compile:
 `````
-gcc example.c -o ./prog
+ javac Immutable.java
 `````
 
 Execute:
 `````
-./prog
+java Immutable
 
 `````
